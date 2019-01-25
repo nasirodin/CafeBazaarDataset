@@ -7,7 +7,7 @@ CafeBazaar.ir Apps DataSet
 Total items 69215
 
 Columns Description:
-* PackageName: appication PackageName
+* PackageName: application PackageName
 * Title: name of the app
 * Category : application categoryId
 * DevTitle : name of developer
