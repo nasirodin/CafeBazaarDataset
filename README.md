@@ -18,6 +18,6 @@ Columns Description:
 * Rate : avrage of total rate
 * Version : version number
 * Size : app size
-* SizeUnit : app size unti
+* SizeUnit : app size unit
 * Price : price of app in IRR
 * PriceType : In-app purchases flag
