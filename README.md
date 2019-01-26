@@ -15,7 +15,7 @@ Columns Description:
 * CreateDate : app info retrieval date
 * DownloadCount : active installs count
 * RateTotal : total rate count
-* Rate : avrage of total rate
+* Rate : average of total rate
 * Version : version number
 * Size : app size
 * SizeUnit : app size unit
